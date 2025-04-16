@@ -1,6 +1,6 @@
 # AgentRank: A Decentralized Trust and Coordination Framework for Multi-Agent Systems in the A2A Era
 
-<i>William Luedtke, Intuition Systems, billy@intuition.systems</i>
+<i>William Luedtke, Intuition, billy@intuition.systems</i>
 
 <i>James Young, Abridged, james@abridged.io</i>
 
