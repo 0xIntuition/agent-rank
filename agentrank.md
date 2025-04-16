@@ -2,7 +2,7 @@
 
 <i>William Luedtke, Intuition Systems, billy@intuition.systems</i>
 
-<i>James Young, Abridged, collab, james@abridged.io</i>
+<i>James Young, Abridged, james@abridged.io</i>
 
 ## Abstract
 
